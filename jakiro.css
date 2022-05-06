@@ -40,13 +40,12 @@
     -webkit-text-stroke-color: white;
 }
 
-img{
-    display: block;
-    margin-left: auto;
+img
+{
+    margin-left: 270px;
     margin-right: auto;
     width: 1300px;
     height: 580px;
-  
 }
 
 .flexbox-container div {
